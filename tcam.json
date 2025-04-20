@@ -1,0 +1,23 @@
+[
+  {
+    "id": "node_0_0",
+    "step": 0,
+    "match": "ternary",
+    "entries": 7680,
+    "key_size": 48
+  },
+  {
+    "id": "node_1_1",
+    "step": 1,
+    "match": "ternary",
+    "entries": 48,
+    "key_size": 16
+  },
+  {
+    "id": "node_1_0",
+    "step": 1,
+    "match": "ternary",
+    "entries": 48,
+    "key_size": 8
+  }
+]

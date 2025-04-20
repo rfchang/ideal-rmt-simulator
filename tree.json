@@ -1,0 +1,47 @@
+[
+  {
+    "id": "node_0_0",
+    "step": 0,
+    "match": "ternary",
+    "entries": 243302,
+    "key_size": 44
+  },
+  {
+    "id": "node_1_0",
+    "step": 1,
+    "match": "exact",
+    "method": "hash",
+    "entries": 48,
+    "key_size": 16,
+    "data_size": 8
+  },
+  {
+    "id": "node_1_1",
+    "step": 1,
+    "match": "ternary",
+    "entries": 36,
+    "key_size": 24
+  },
+  {
+    "id": "node_2_0",
+    "step": 2,
+    "match": "exact",
+    "method": "index",
+    "key_size": 8,
+    "data_size": 8
+  },
+  {
+    "id": "node_2_1",
+    "step": 2,
+    "match": "ternary",
+    "entries": 48,
+    "key_size": 16
+  },
+  {
+    "id": "node_2_2",
+    "step": 2,
+    "match": "ternary",
+    "entries": 48,
+    "key_size": 8
+  }
+]
