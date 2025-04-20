@@ -1,0 +1,9 @@
+[
+  {
+    "id": "fib",
+    "step": 0,
+    "match": "ternary",
+    "entries": 245761,
+    "key_size": 32
+  }
+]
