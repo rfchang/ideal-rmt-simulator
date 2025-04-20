@@ -2,4 +2,4 @@
 
 Sample JSONs provided in samples folder.
 
-python sim.py <filename>
+Run `python sim.py <filename>` to execute the script.
